@@ -1,1 +1,0 @@
-print("index2.py")
